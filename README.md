@@ -1,9 +1,9 @@
 # yt-video-downloader
 youtube video downloader
 
-# 1
+# Step 1
 gitclone https://github.com/Mr-Braadworst/yt-video-downloader.git
 
-# 2
+# Step 2
 python start.py
 
