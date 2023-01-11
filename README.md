@@ -8,7 +8,7 @@ git clone https://github.com/Mr-Braadworst/yt-video-downloader.git
 cd yt-video-downloader
 
 # Step 3
-sudo bash install.sh
+bash install.sh
 
 # Step 4
 python start.py  or python3 start.py
